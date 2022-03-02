@@ -5,12 +5,12 @@ My personal learning roadmap on Web Development and Programming containing all t
 ### Caption
 
 
- :ok_hand: = Studied 
-:memo: = Currently studying 
-:eyes: = Looking for resources
-:arrows_clockwise: = Reviewing
-:skull: =  Gave up
-:o: = Standby
+- :ok_hand: = Studied 
+- :memo: = Currently studying 
+- :eyes: = Looking for resources
+- :arrows_clockwise: = Reviewing
+- :skull: =  Gave up
+- :o: = Standby
 
 
 
@@ -18,16 +18,18 @@ My personal learning roadmap on Web Development and Programming containing all t
 
 
 # Table of Contents
+ - [What is it?](#what-is-it)
+ - [Daily Plan](#daily-plan)
+ - [Resources](#resources)
+ - [Frontend Roadmap](#frontend-roadmap)
+ - [Backend Roadmap](#backend-roadmap)
 
-- [Personal Study Roadmap](#personal-study-roadmap)
-    - [Caption](#caption)
-- [Table of Contents](#table-of-contents)
-  - [Frontend Roadmap](#frontend-roadmap)
-  - [Backend Roadmap](#backend-roadmap)
+## What is it
+
 
 ## Frontend Roadmap
 Using topics on this [Roadmap](https://roadmap.sh/frontend) as reference
-- [Internet](frontend/internet.md)
-- [HTML](#html)
+- [x][Internet](frontend/internet.md)
+- [x][HTML](#html)
 
 ## Backend Roadmap
