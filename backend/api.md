@@ -7,6 +7,8 @@
  - [REST](#daily-plan)
  - [REST API](#rest-api)
  - [RESTful](#restful)
+ - [Request and Responde](#request-and-response)
+ - [Complex concepts](#complex-concepts)
  
 ## Links used to study
 - [O que é API? REST e RESTful? | Mayk Brito](https://youtu.be/ghTrp1x_1As)
