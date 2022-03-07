@@ -15,15 +15,11 @@
 
 ## Summary
 
-### What is it?
-
-### How and where to use it
-
-### Operators and values
-
-### Data types: objects and arrays
-
-### Variables
+- [What is it?](#what-is-it)
+- [How and where to use it](#how-and-where-to-use-it)
+- [Operators and values](#operators-and-values)
+  - [Values](#values)
+  - [Operators](#operators)
 
 # What is it?
 

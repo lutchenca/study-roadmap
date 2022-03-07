@@ -9,7 +9,7 @@
  - [ng-template](#ng-template)
  - [Decorators](#decorators)
  
-## Links used to study
+## Resources
 - [**Angular’s official documentation**](https://angular.io/docs) 
 - [Angular University](https://angular-university.io/)
 - [Angular Basics](https://egghead.io/courses/angular-basics-888f) 
