@@ -17,8 +17,10 @@
 - [https://angular.io/guide/architecture-components](https://angular.io/guide/architecture-components)
 - [Angular ng-content and Content Projection: A Complete Guide - How To Use ng-content To Improve Component API Design](https://blog.angular-university.io/angular-ng-content/) 
 - [Angular ng-template, ng-container and ngTemplateOutlet - The Complete Guide To Angular Templates](https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/) 
-- [https://www.tektutorialshub.com/angular/angular-decorators/](https://www.tektutorialshub.com/angular/angular-decorators/) 
-- [https://www.javatpoint.com/angular-decorators](https://www.javatpoint.com/angular-decorators) 
+- [Angular Decorators](https://www.tektutorialshub.com/angular/angular-decorators/) 
+- [Angular Decorators](https://www.javatpoint.com/angular-decorators) 
+- - [Curso Angular #13: Reusando Componentes com Input properties](https://youtu.be/G2cBpYZ0fzk)
+- [Curso Angular 8: @Output e @Input - #07](https://www.youtube.com/watch?v=lkwd9DA8RwU) 
 
 ## What is it 
 > Angular is an application design framework and development platform for creating efficient and sophisticated single-page apps.
