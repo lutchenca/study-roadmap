@@ -1,7 +1,7 @@
 # Personal Study Roadmap :notebook::girl:
 
 My personal learning roadmap on Web Development and Programming containing all the topics I'm studying/studied. 
-Learning in public  is simply sharing your process of study and learning in public - pretty easy, huh? We have a lot of articles and statitics that shows that sharing your knowledge is the best way to do anything, because when you teach someone, you have to find differents ways to explain, and this is great for you! Also the IT comunity is helping me a lot trough my journey and  I am trying to somekind way retribute. 
+Learning in public is simply sharing your process of study and learning... in public - pretty easy, huh? We have a lot of articles and statitics that shows that sharing your knowledge is the best way to do anything, because when you teach or talk to someone, you have to find differents ways to explain, and this is great for you! Also the IT comunity is helping me a lot trough my journey and  I am trying to somekind way retribute. You can use this repository by entering on every folder and reading the notes I'm making about each topic. 
 
 
 ### Caption
@@ -31,7 +31,7 @@ I'm gonna create folders with themes that I'm working/studying on and feeding th
 ## Frontend Roadmap
 - [x][HTML](#html)
 - [x][Angular](frontend/angular.md) :memo: 
-- [x][JavaScript](frontend/javascript.md)
+- [x][JavaScript](frontend/javascript.md)  :memo:
 
 ## Backend Roadmap
 - [x][API](backend/api.md) :memo:
