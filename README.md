@@ -31,6 +31,7 @@ I'm gonna create folders with themes that I'm working/studying on and feeding th
 ## Frontend Roadmap
 - [x][HTML](#html)
 - [x][Angular](frontend/angular.md) :memo: 
+- [x][JavaScript](frontend/javascript.md)
 
 ## Backend Roadmap
 - [x][API](backend/api.md) :memo:
