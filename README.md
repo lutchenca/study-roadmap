@@ -36,6 +36,7 @@ I'm gonna create folders with themes that I'm working/studying on and feeding th
 ## Backend Roadmap
 - [x][API](backend/api.md) :ok_hand:
 - [x][SQL](backend/sql.md) :memo:
+- [x][Decorators](backend/decorators.md) 
 
 ## Resources 
 [Resources](#resources)

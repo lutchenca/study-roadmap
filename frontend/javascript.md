@@ -120,7 +120,7 @@ The /= operator divides a variable by another number
 
 - **Comparison Operators**
 
-![Operators](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bd30cf6a-c552-4246-bebe-7db7b8781e70/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220307%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220307T132953Z&X-Amz-Expires=86400&X-Amz-Signature=fb15ed020da87f2446cf316c11183498b65383c07771c75b902c3aefc007e1e9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+[Operators](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bd30cf6a-c552-4246-bebe-7db7b8781e70/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220307%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220307T132953Z&X-Amz-Expires=86400&X-Amz-Signature=fb15ed020da87f2446cf316c11183498b65383c07771c75b902c3aefc007e1e9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 There are many comparison operators in JavaScript. All of these operators return a boolean true or false value.
 
@@ -152,7 +152,7 @@ return "Yes";
 
  **! LOGICAL NOT** 
 
-![Operators](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6b4227be-d49e-42e8-acfb-9c1584fc3342/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220307%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220307T133016Z&X-Amz-Expires=86400&X-Amz-Signature=00df841d4917986ee85e65c6751b2e16d6f30e33a70689b69b35ece9aea671de&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+
 
 > **You can combine and transform values with operators.**
 >
