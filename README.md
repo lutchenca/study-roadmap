@@ -40,6 +40,7 @@ Navigate to the folder you want to see and read the markdown file. Everything is
 - [x][Decorators](backend/decorators.md) 
 - [x][Migrations](backend/migrations.md)
 - [x][NestJS](backend/nestjs.md)
+- [x][Seed Data](backend/seed-data.md)
 - [x][SQL](backend/sql.md) :memo:
 
 ## Resources 
