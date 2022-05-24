@@ -42,6 +42,7 @@ Navigate to the folder you want to see and read the markdown file. Everything is
 - [x][NestJS](backend/nestjs.md)
 - [x][Seed Data](backend/seed-data.md)
 - [x][SQL](backend/sql.md) :memo:
+- [x][Stack](backend/stack.md) :memo:
 
 ## Resources 
 [Resources](#resources)
