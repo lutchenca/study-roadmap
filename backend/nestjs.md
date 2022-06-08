@@ -5,8 +5,10 @@
 
 ### Summary
 
-- What NestJs is
-- 
+- [Resources](#resources)
+    - [Summary](#summary)
+- [What NestJS is:](#what-nestjs-is)
+    - [callback](#callback)
 
 # What NestJS is:
 
@@ -32,5 +34,16 @@ With NestJS, your code can be structured into finer separation of concerns. This
 - what are nest controllers?
     
     Controllers are responsible for handling incoming **requests** and returning **responses** to the client.
+
+To define a new controller, you need:
+
+- Expose a new class
+- Using the @Controller() decorator
+- Add the class in a module, even if it's in the root
+- Decorate some method with @Get() or @Post() to receive a get or post request
     
     In order to create a basic controller, we use classes and decorators. Decorators associate classes with required metadata and enable Nest to create a routing map (tie requests to the corresponding controllers).
+
+    ### Modules
+
+The basic way to cohesively construct and group code blocks. To start Nest.js, we need to inform the root module of our application, so good practice says that you should organize your application in a tree format, with a root module and the following will be its functionalities.
