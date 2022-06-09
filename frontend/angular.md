@@ -8,6 +8,7 @@
  - [Specific concepts](#specific-concepts)
  - [ng-template](#ng-template)
  - [Decorators](#decorators)
+ - [Other Topics](#other-topics)
  
 ## Resources
 - [**Angular’s official documentation**](https://angular.io/docs) 
@@ -20,7 +21,10 @@
 - [Angular Decorators](https://www.tektutorialshub.com/angular/angular-decorators/) 
 - [Angular Decorators](https://www.javatpoint.com/angular-decorators) 
 - - [Curso Angular #13: Reusando Componentes com Input properties](https://youtu.be/G2cBpYZ0fzk)
-- [Curso Angular 8: @Output e @Input - #07](https://www.youtube.com/watch?v=lkwd9DA8RwU) 
+- [Curso Angular 8: @Output e @Input - #07](https://www.youtube.com/watch?v=lkwd9DA8RwU)
+- [Angular Roadmap](https://roadmap.sh/angular) 
+- [Angular – Promise Explained with Code Example](https://vitalflux.com/angular-promise-explained-code-example/)
+- [Optional chaining (?.) ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
 
 ## What is it 
 > Angular is an application design framework and development platform for creating efficient and sophisticated single-page apps.
@@ -131,3 +135,38 @@ In Angular, decorators are functions that allow a **service, directive,** or 
 - Property decorators for properties inside classes, such as **@Input** and **@Output**
 - Method decorators for methods inside classes, such as **@HostListener**
 - Parameter decorators for parameters inside class constructors, such as **@Inject**
+
+## Other Topics
+
+Promise, in Javascript, is a concept which allows the callee function to send back a promise (sort of assurance) to the caller function that it would, for sure, send back a resolution, be it a success or a failure at a little later point of time. The caller believes the callee if a promise is sent back, and, proceeds ahead with the program execution.
+
+• **What is Promise chaining?**: The promise object can further be passed to another promise object which can then be passed to another promise object which could then choose to resolve or reject the promise. This process is called as **chaining**.
+
+> 💡 The **optional chaining** operator (**`?.`**) enables you to read the value of a property located deep within a chain of connected objects without having to check that each reference in the chain is valid.
+> 
+
+Example
+
+```jsx
+const adventurer = {
+  name: 'Lut',
+  cat: {
+    name: 'Bellinha'
+  }
+};
+
+const dogName = adventurer.dog?.name;
+console.log(dogName);
+// expected output: undefined
+
+console.log(adventurer.someNonExistentMethod?.());
+// expected output: undefined
+```
+
+A `Promise` is in one of these states:
+
+- *pending*: initial state, neither fulfilled nor rejected.
+- *fulfilled*: meaning that the operation was completed successfully.
+- *rejected*: meaning that the operation failed.
+ 
+ ![Promise](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7c92c513-bea5-41fc-a504-b038fd3d1545/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220608%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220608T235929Z&X-Amz-Expires=86400&X-Amz-Signature=a9415f8b482ca21299d156b876ee77a7e6b02c8de5b2d2e3029cec5a06a47d6e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
