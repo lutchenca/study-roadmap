@@ -37,12 +37,14 @@ Navigate to the folder you want to see and read the markdown file. Everything is
 
 ## Backend Roadmap
 - [x][API](backend/api.md) :ok_hand:
-- [x][Decorators](backend/decorators.md) 
-- [x][Migrations](backend/migrations.md)
+- [x][Decorators](backend/decorators.md) :o:
+- [x][Data Structures](backend/data-structures.md) :memo: 
+- [x][Migrations](backend/migrations.md) :ok_hand:
 - [x][NestJS](backend/nestjs.md)
 - [x][Seed Data](backend/seed-data.md)
 - [x][SQL](backend/sql.md) :memo:
 - [x][Stack](backend/stack.md) :memo:
+- 
 
 ## Resources 
 [Resources](#resources)
