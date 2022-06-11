@@ -14,16 +14,15 @@ Learning in public is simply sharing your process of study and learning... in pu
 - :skull: =  Gave up
 - :o: = Standby
 
-
-
 ---
-
 
 # Table of Contents
  - [How this repo works?](#how-this-repo-works)
  - [Frontend Roadmap](#frontend-roadmap)
  - [Backend Roadmap](#backend-roadmap)
  - [Resources](#resources)
+ - [Issues](issues/issues.md)
+ - [Good Practices](good-practices/good-practices.md)
 
 ## How this repo works
 I'm gonna create folders with themes that I'm working/studying on and feeding them with every stuff and resource that helped me to understand the concept, so you can see my code/text/whatever-media-i-used and talk to me, sounds great, right? Feel free to discuss and help me to improve. Every folder has it own markdown file specifying what it is about, that's it! Also, I hope that you get inspired by this and made your own. 
@@ -31,19 +30,20 @@ I'm gonna create folders with themes that I'm working/studying on and feeding th
 
 Navigate to the folder you want to see and read the markdown file. Everything is in alphabetical order, so you can find the topic you're looking for.
 ## Frontend Roadmap
-- [x][Angular](frontend/angular.md) :o:
-- [x][JavaScript](frontend/javascript.md)  :memo:
-- [x][HTML](#html)
+- [x][Angular](frontend-roadmap/angular.md) :o:
+- [x][CSS](frontend-roadmap/css.md)
+- [x][JavaScript](frontend-roadmap/javascript.md)  :memo:
+- [x][HTML](frontend-roadmap/html.md)
 
 ## Backend Roadmap
-- [x][API](backend/api.md) :ok_hand:
-- [x][Decorators](backend/decorators.md) :o:
-- [x][Data Structures](backend/data-structures.md) :memo: 
-- [x][Migrations](backend/migrations.md) :ok_hand:
-- [x][NestJS](backend/nestjs.md)
-- [x][Seed Data](backend/seed-data.md)
-- [x][SQL](backend/sql.md) :memo:
-- [x][Stack](backend/stack.md) :memo:
+- [x][API](backend-roadmap/api.md) :ok_hand:
+- [x][Decorators](backend-roadmap/decorators.md) :o:
+- [x][Data Structures](backend-roadmap/data-structures.md) :memo: 
+- [x][Migrations](backend-roadmap/migrations.md) :ok_hand:
+- [x][NestJS](backend-roadmap/nestjs.md)
+- [x][Seed Data](backend-roadmap/seed-data.md)
+- [x][SQL](backend-roadmap/sql.md) :memo:
+- [x][Stack](backend-roadmap/stack.md) :memo:
 - 
 
 ## Resources 
