@@ -48,3 +48,6 @@ Navigate to the folder you want to see and read the markdown file. Everything is
 
 ## Resources 
 [Resources](#resources)
+
+## Good Practices 
+[Good Practices](#good-practices)
