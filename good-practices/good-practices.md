@@ -30,6 +30,8 @@
 Good practices are related to build more efficient, organized, clean and overall better code, by following patterns. Code should be written in such a way that it's maintainable, robust, verifiable, and readable. This is why developers need to constantly find and learn new ways to write better code.
 
 ## Here some of one this best practices:
+<<<<<<< HEAD
+=======
 
 # CSS
 
@@ -50,6 +52,37 @@ menu__item--disabled
 ```
 
 # HTML
+
+# Design Patterns
+
+# What is it
+
+# DRY - Don’t repeat yourself
+
+The same piece of code should not be repeated over and over again.
+
+# Design Patterns
+
+# Design System
+
+Set of pre-established and consensual standards aimed at improving developer and user usage and efficiency,
+
+# Micro frontends
+
+Microservices techniques also applied in front-end development
+
+# MVC (Model View Controller)
+
+Just as we have the division between back and front to establish the division between the business rule and interface, inside the backend we also have a division of layers and responsibilities. MVC corresponds to an architectural pattern that divides the elements of this application into three layers:
+
+Model
+
+View
+
+Controller
+
+# MVVM (Model View ViewModel)
+>>>>>>> 7e15580d80b78b7ff77bf5f7f84f1ff9fbf750ac
 
 ### Blank Lines and Indentation
 
