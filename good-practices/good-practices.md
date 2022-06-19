@@ -7,55 +7,29 @@
 - [HTML Style Guide](https://www.w3schools.com/html/html5_syntax.asp)
 - [Coding best practices](https://www.topcoder.com/blog/coding-best-practices/)
 - [Separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
+- [Micro Front-Ends](https://martinfowler.com/articles/micro-frontends.html)
+- [Micro Front-Ends](https://medium.com/@danielfernandes/micro-front-end-a9d654a67528)
 
 # Summary
 
 - What is it
-- DRY - Don’t repeat yourself
-- Design Patterns
-- Design System
-- Micro frontends
-- MVC (Model View Controller)
-- MVVM (Model View ViewModel)
 - CSS
   - Atomic
   - SuitCSS
   - BEM - Block Element Modifier
+- DRY - Don’t repeat yourself
+- Design Patterns
+- Design System
 - HTML
+- Micro frontends
+- MVC (Model View Controller)
+- MVVM (Model View ViewModel)
 
 # What is it
 
 Good practices are related to build more efficient, organized, clean and overall better code, by following patterns. Code should be written in such a way that it's maintainable, robust, verifiable, and readable. This is why developers need to constantly find and learn new ways to write better code.
 
-Here some of one this best practices:
-
-# Design Patterns
-
-# What is it
-
-# DRY - Don’t repeat yourself
-
-The same piece of code should not be repeated over and over again.
-
-# Design Patterns
-
-# Design System
-
-Set of pre-established and consensual standards aimed at improving developer and user usage and efficiency,
-
-# Micro frontends
-
-# MVC (Model View Controller)
-
-Just as we have the division between back and front to establish the division between the business rule and interface, inside the backend we also have a division of layers and responsibilities. MVC corresponds to an architectural pattern that divides the elements of this application into three layers:
-
-Model
-
-View
-
-Controller
-
-# MVVM (Model View ViewModel)
+## Here some of one this best practices:
 
 # CSS
 
@@ -84,3 +58,33 @@ menu__item--disabled
 - For readability, add blank lines to separate large or logical code blocks.
 
 - For readability, add two spaces of indentation. Do not use the tab key.
+
+# Design Patterns
+
+# What is it
+
+# DRY - Don’t repeat yourself
+
+The same piece of code should not be repeated over and over again.
+
+# Design Patterns
+
+# Design System
+
+Set of pre-established and consensual standards aimed at improving developer and user usage and efficiency,
+
+# Micro frontends
+
+Microservices techniques also applied in front-end development
+
+# MVC (Model View Controller)
+
+Just as we have the division between back and front to establish the division between the business rule and interface, inside the backend we also have a division of layers and responsibilities. MVC corresponds to an architectural pattern that divides the elements of this application into three layers:
+
+Model
+
+View
+
+Controller
+
+# MVVM (Model View ViewModel)
