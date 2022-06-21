@@ -57,4 +57,4 @@ Navigate to the folder you want to see and read the markdown file. Everything is
 
 ## Good Practices
 
-[Good Practices](#good-practices)
+[Good Practices](#good-practices) :ok_hand:
