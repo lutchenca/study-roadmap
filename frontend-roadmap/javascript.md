@@ -24,6 +24,7 @@
   - [Values](#values)
   - [Operators](#operators)
   - [Expressions and statements](#expressions-and-statements)
+  - [Arrays](#arrays)
   - [Functions](#functions)
     - [Function Declarations](#function-declarations)
     - [Function Expressions](#function-expressions)
@@ -167,6 +168,8 @@ return "Yes";
 A fragment of code that produces a value is called an *expression*. Every value that is written literally (such as `22`or `"psychoanalysis"`)is an expression. An expression between parentheses is also an expression, as is a binary operator applied to two expressions or a unary operator applied to one.
 
 If an expression corresponds to a sentence fragment, a JavaScript *statement* corresponds to a full sentence. A program is a list of statements.
+
+## Arrays
 
 ## Functions
 
