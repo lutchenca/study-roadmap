@@ -7,6 +7,7 @@
 - [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#description](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#description)
 - [https://www.w3schools.com/js/js_arrays.asp](https://www.w3schools.com/js/js_arrays.asp) - JS Arrays
 - [https://www.javascripttutorial.net/javascript-array-methods/](https://www.javascripttutorial.net/javascript-array-methods/) - JavaScript Array Methods
+- [https://www.youtube.com/watch?v=T9wOu11uU6U&list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi](RxJS - What and Why? Academind course)
 
 ### Summary
 
@@ -28,7 +29,7 @@ RxJS is a library for composing asynchronous and event-based programs by using o
 
 ### JavaScript Arrays
 
-The **Array objec**t, as with arrays in other programming languages, enables storing a collection of multiple items under a single variable name, and has members for performing common array operations.
+The **Array object**, as with arrays in other programming languages, enables storing a collection of multiple items under a single variable name, and has members for performing common array operations.
 
 JavaScript arrays are re-sizable and can contain a mix of different data types.
 
