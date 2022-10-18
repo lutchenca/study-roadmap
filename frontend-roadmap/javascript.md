@@ -25,6 +25,8 @@
   - [Operators](#operators)
   - [Expressions and statements](#expressions-and-statements)
   - [Arrays](#arrays)
+    - [Array Properties](#array-properties)
+    - [Array Methods](#array-methods)
   - [Functions](#functions)
     - [Function Declarations](#function-declarations)
     - [Function Expressions](#function-expressions)
@@ -170,7 +172,80 @@ A fragment of code that produces a value is called an *expression*. Every value
 If an expression corresponds to a sentence fragment, a JavaScript *statement* corresponds to a full sentence. A program is a list of statements.
 
 ## Arrays
+The **Array object**, as with arrays in other programming languages, enables storing a collection of multiple items under a single variable name, and has members for performing common array operations.
 
+JavaScript arrays are re-sizable and can contain a mix of different data types.
+
+- Constructor - `Array()`
+
+Creates a new Array object.
+
+get Array
+
+**Arrays are Objects**
+
+Arrays are a special type of objects. The `typeof` operator in JavaScript returns "object" for arrays.
+
+But, JavaScript arrays are best described as arrays.
+
+**Array Elements Can Be Objects**
+
+JavaScript variables can be objects. Arrays are special kinds of objects.
+
+Because of this, you can have variables of different types in the same Array.
+
+You can have objects in an Array. You can have functions in an Array. You can have arrays in an Array:
+
+```jsx
+myArray[0] = Date.now;
+myArray[1] = myFunction;
+myArray[2] = myCars;
+```
+
+### Array Properties
+
+The real strength of JavaScript arrays are the built-in array properties and methods:
+
+```jsx
+cars.length; // Returns the number of elements
+cars.sort(); // Sorts the array
+```
+
+### Array Methods
+
+**Adding / removing elements**
+
+- [push()](https://www.javascripttutorial.net/javascript-array-push/) – add one or more elements to the end of an array.
+- [unshift()](https://www.javascripttutorial.net/javascript-array-unshift/) – add one or more elements to the beginning of an array.
+- [pop()](https://www.javascripttutorial.net/javascript-array-pop/) – remove an element from the end of an array.
+- [shift()](https://www.javascripttutorial.net/javascript-array-shift/) – remove the first element from an array.
+- [splice()](https://www.javascripttutorial.net/javascript-array-splice/) – manipulate elements in an array such as deleting, inserting, and replacing elements.
+
+**Finding elements**
+
+- [indexOf()](https://www.javascripttutorial.net/javascript-array-indexof/) – locate an element in an array.
+- [includes()](https://www.javascripttutorial.net/es-next/javascript-array-includes/) – check if an element is in an array.
+- [find()](https://www.javascripttutorial.net/es6/javascript-array-find/) – find an element in an array
+- [findIndex()](https://www.javascripttutorial.net/es6/javascript-array-findindex/) – find the index of an element in an array.
+
+**High-order methods**
+
+- [map()](https://www.javascripttutorial.net/javascript-array-map/) – transform array elements.
+- [filter()](https://www.javascripttutorial.net/javascript-array-filter/) – filter elements in an array
+- [reduce()](https://www.javascripttutorial.net/javascript-array-reduce/) – reduce elements of an array to a value.
+- [every()](https://www.javascripttutorial.net/javascript-every/) – check if every element in an array passes a test.
+- [some()](https://www.javascripttutorial.net/javascript-array-some/) – check if at least one element in an array passed a test.
+- [sort()](https://www.javascripttutorial.net/javascript-array-sort/) – sort elements in an array.
+- [forEach()](https://www.javascripttutorial.net/javascript-array-foreach/) – loop through array elements.
+
+**Manipulating Arrays**
+
+- [concat()](https://www.javascripttutorial.net/javascript-array-concat/) – merge two arrays into an array.
+
+**Creating Arrays**
+
+- [of()](https://www.javascripttutorial.net/es6/array-of/) – improve array creation.
+- [from()](https://www.javascripttutorial.net/es6/array-from/) – create arrays from array-like or iterable objects.
 ## Functions
 
 A function is a piece of program wrapped in a value. Such values can be applied in order to run the wrapped program. Executing a function is called invoking, calling, or applying it. You can call a function by putting parentheses after an expression that produces a function value. Values given to functions are called _arguments._ Different functions might need a different number or different types of arguments.
